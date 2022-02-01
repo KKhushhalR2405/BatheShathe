@@ -1,2 +1,2 @@
 # BatheShathe
-Social Media Clone app using Django
+Social Networking site for Space Enthusiast using Django
